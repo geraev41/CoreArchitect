@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/1FkEERoS8iY0AZcdTGGZrGKcqILD9miTLpAkYPIarg=",
+  "Source": "CoreArchitect.WebApi",
+  "BasePath": "_content/CoreArchitect.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
